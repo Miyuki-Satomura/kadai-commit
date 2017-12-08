@@ -1,2 +1,2 @@
-kadai-commit
-sample.txt
+これは最初のコミットです。
+これは２回目のコミットです。
